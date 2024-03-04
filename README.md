@@ -4,7 +4,7 @@ This repository contains a simple implementation of a blockchain in Go.
 
 ## Commands Used
 
-- `git clone https://github.com/MuhammadSHOUKATSYED/go-blockchain`: Clone the repository to your local machine.
+- `git clone https://github.com/your-username/go-blockchain`: Clone the repository to your local machine.
 - `touch blockchain.go`: Create a new Go source file.
 - `git add blockchain.go`: Add the file to the repository.
 - `git commit -m "Add blockchain functions"`: Commit the changes.
